@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amazon-railings-273b3f9e.zappy5.app/sitemap.xml
